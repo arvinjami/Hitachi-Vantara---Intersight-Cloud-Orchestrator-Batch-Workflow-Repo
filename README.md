@@ -13,7 +13,7 @@ This project repository serves as a hosting space for custom Cisco ICO workflows
 These workflows will allow users who utilze the Hitachi VSP within ICO enviroments to effciently utilize batch jobs within a single workflow for large scale enviroments,  negating the need to repetitively execute multiple workflows for common operations.
 ## Usage
 
-These workflows are for personal usage within private lab enviroments only, end users assume all risks when utilizing this repository and shall not implement or distribute outside the usage outlined in this document.
+These workflows are for personal usage within private lab enviroments only, end users assume all risks when utilizing this repository and shall not implement or distribute outside the usage outlined in this document. “Workflows are being provided to you “AS-IS”, without any warranties, express or implied including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or accuracy of information.   In no event will Hitachi Vantara be liable to for any damages, including direct, indirect,  special, incidental, punitive, or consequential damages arising from access or use of the Workflows. 
 
 
 ## Deployment
